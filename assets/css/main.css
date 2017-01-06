@@ -1,0 +1,159 @@
+/* reset */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* type */
+
+body {
+    font-family: arial, helvetica, sans-serif;
+    text-align: left;
+    font-size: 45px;
+    background-color: #9acfd3;
+
+
+}
+
+/* structure */
+
+.container {
+	width: 1400px;
+	height: 640px;
+	padding: 100px 30px;
+	margin: auto;
+	font-weight: 300;
+	background-color: #9acfd3;
+	overflow: hidden;
+
+}
+
+.circle {
+	width: 120px;
+	height: 120px;
+	background: white;
+	-moz-border-radius: 60px;
+	-webkit-border-radius: 60px;
+	border-radius: 60px;
+	
+}
+
+.circlesmall {
+	width: 70px;
+	height: 70px;
+	background: white;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	
+}
+
+.one {
+	top: 80px;
+	left: 350px;
+	position: fixed;
+}
+
+.two {
+	top: 80px;
+	left: 650px;
+	position: fixed;
+}
+
+.three {
+	top: 80px;
+	left: 950px;
+	position: fixed;
+}
+
+.four {
+	top: 280px;
+	left: 650px;
+	position: fixed;
+}
+
+.five {
+	top: 500px;
+	left: 650px;
+	position: fixed;
+}
+
+.six {
+	top: 100px;
+	left: 140px;
+	position: fixed;
+}
+
+.seven {
+	top: 270px;
+	left: 240px;
+	position: fixed;
+}
+
+.eight {
+	top: 405px;
+	left: 350px;
+	position: fixed;
+}
+
+.nine {
+	top: 510px;
+	left: 550px;
+	position: fixed;
+}
+
+.ten {
+	top: 500px;
+	left: 650px;
+	position: fixed;
+}
+
+.eleven {
+	top: 400px;
+	left: 550px;
+	position: fixed;
+}
+
+.twelve {
+	top: 270px;
+	left: 650px;
+	position: fixed;
+}
+
+.thirteen {
+	top: 100px;
+	left: 990px;
+	position: fixed;
+}
+
+.fouteen {
+	top: 270px;
+	left: 1100px;
+	position: fixed;
+}
+
+.fifteen {
+	top: 100px;
+	left: 1190px;
+	position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
