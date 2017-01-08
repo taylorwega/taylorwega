@@ -8,9 +8,7 @@
 /* type */
 
 body {
-    font-family: arial, helvetica, sans-serif;
-    text-align: left;
-    font-size: 45px;
+
     background-color: #9acfd3;
 
 
@@ -21,11 +19,21 @@ body {
 .container {
 	width: 1400px;
 	height: 640px;
-	padding: 100px 30px;
+	padding: 20px 30px;
 	margin: auto;
 	font-weight: 300;
 	background-color: #9acfd3;
 	overflow: hidden;
+
+}
+
+.name {
+	top: 20px;
+	left: 20px;
+	color: white;
+	margin: auto;
+	font-size: 15px;
+	font-family: helvetica, sans-serif;
 
 }
 
@@ -98,36 +106,36 @@ body {
 }
 
 .nine {
-	top: 510px;
+	top: 600px;
 	left: 550px;
 	position: fixed;
 }
 
 .ten {
-	top: 500px;
-	left: 650px;
+	top: 600px;
+	left: 700px;
 	position: fixed;
 }
 
 .eleven {
-	top: 400px;
+	top: 600px;
 	left: 550px;
 	position: fixed;
 }
 
 .twelve {
-	top: 270px;
-	left: 650px;
+	top: 450px;
+	left: 750px;
 	position: fixed;
 }
 
 .thirteen {
-	top: 100px;
+	top: 400px;
 	left: 990px;
 	position: fixed;
 }
 
-.fouteen {
+.fourteen {
 	top: 270px;
 	left: 1100px;
 	position: fixed;
