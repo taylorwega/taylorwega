@@ -58,92 +58,92 @@ body {
 }
 
 .one {
-	top: 80px;
-	left: 350px;
+	top: 50px;
+	left: 450px;
 	position: fixed;
 }
 
 .two {
-	top: 80px;
+	top: 50px;
 	left: 650px;
 	position: fixed;
 }
 
 .three {
-	top: 80px;
-	left: 950px;
+	top: 50px;
+	left: 850px;
 	position: fixed;
 }
 
 .four {
-	top: 280px;
+	top: 230px;
 	left: 650px;
 	position: fixed;
 }
 
 .five {
-	top: 500px;
+	top: 410px;
 	left: 650px;
 	position: fixed;
 }
 
 .six {
-	top: 100px;
-	left: 140px;
+	top: 70px;
+	left: 235px;
 	position: fixed;
 }
 
 .seven {
-	top: 270px;
-	left: 240px;
+	top: 260px;
+	left: 300px;
 	position: fixed;
 }
 
 .eight {
-	top: 405px;
-	left: 350px;
+	top: 450px;
+	left: 375px;
 	position: fixed;
 }
 
 .nine {
-	top: 600px;
-	left: 550px;
+	top: 620px;
+	left: 450px;
 	position: fixed;
 }
 
 .ten {
-	top: 600px;
-	left: 700px;
+	top: 530px;
+	left: 560px;
 	position: fixed;
 }
 
 .eleven {
-	top: 600px;
-	left: 550px;
+	top: 530px;
+	left: 790px;
 	position: fixed;
 }
 
 .twelve {
-	top: 450px;
-	left: 750px;
+	top: 620px;
+	left: 910px;
 	position: fixed;
 }
 
 .thirteen {
-	top: 400px;
-	left: 990px;
+	top: 450px;
+	left: 980px;
 	position: fixed;
 }
 
 .fourteen {
-	top: 270px;
-	left: 1100px;
+	top: 260px;
+	left: 1045px;
 	position: fixed;
 }
 
 .fifteen {
-	top: 100px;
-	left: 1190px;
+	top: 70px;
+	left: 1118px;
 	position: fixed;
 }
 
