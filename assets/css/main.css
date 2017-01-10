@@ -44,6 +44,7 @@ body {
 	-moz-border-radius: 60px;
 	-webkit-border-radius: 60px;
 	border-radius: 60px;
+	margin: auto;
 	
 }
 
@@ -54,103 +55,193 @@ body {
 	-moz-border-radius: 35px;
 	-webkit-border-radius: 35px;
 	border-radius: 35px;
+	margin: auto;
 	
+}
+
+.gifportraits {
+	top: -40px;
+	left: 390px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.45);
+	position: fixed;
+	margin: auto;
+
 }
 
 .one {
 	top: 50px;
 	left: 450px;
 	position: fixed;
+	z-index: 0;
+	margin: auto;
+	
+}
+
+.gifgoat {
+	top: -40px;
+	left: 590px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.45);
+	position: fixed;
+	margin: auto;
+
 }
 
 .two {
 	top: 50px;
 	left: 650px;
 	position: fixed;
+	margin: auto;
+}
+
+.gifvoices{
+	top: -40px;
+	left: 788px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.44);
+	position: fixed;
+	margin: auto;
+
 }
 
 .three {
 	top: 50px;
 	left: 850px;
 	position: fixed;
+	margin: auto;
+}
+
+.gifstories {
+	top: 140px;
+	left: 586px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.44);
+	position: fixed;
+	margin: auto;
+
 }
 
 .four {
 	top: 230px;
 	left: 650px;
 	position: fixed;
+	margin: auto;
 }
 
 .five {
 	top: 410px;
 	left: 650px;
 	position: fixed;
+	margin: auto;
 }
 
 .six {
 	top: 70px;
 	left: 235px;
 	position: fixed;
+	margin: auto;
+}
+
+.gifmonogram {
+	top: 145px;
+	left: 218px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.27);
+	position: fixed;
+	margin: auto;
+
 }
 
 .seven {
 	top: 260px;
 	left: 300px;
 	position: fixed;
+	margin: auto;
 }
 
 .eight {
 	top: 450px;
 	left: 375px;
 	position: fixed;
+	margin: auto;
 }
 
 .nine {
 	top: 620px;
 	left: 450px;
 	position: fixed;
+	margin: auto;
+}
+
+.gifspring {
+	top: 510px;
+	left: 372px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.28);
+	position: fixed;
+	margin: auto;
+
 }
 
 .ten {
 	top: 530px;
 	left: 560px;
 	position: fixed;
+	margin: auto;
 }
 
 .eleven {
 	top: 530px;
 	left: 790px;
 	position: fixed;
+	margin: auto;
 }
 
 .twelve {
 	top: 620px;
 	left: 910px;
 	position: fixed;
+	margin: auto;
 }
 
 .thirteen {
 	top: 450px;
 	left: 975px;
 	position: fixed;
+	margin: auto;
 }
 
 .fourteen {
 	top: 260px;
 	left: 1050px;
 	position: fixed;
+	margin: auto;
 }
 
 .fifteen {
 	top: 70px;
 	left: 1118px;
 	position: fixed;
+	margin: auto;
 }
 
 
 
 
+/*.gifbig {
+	top: 50px;
+	left: 450px;
+	position: fixed;
+	transform: scale(.5);
 
+}*/
 
 
 
