@@ -49,12 +49,67 @@ body {
 }
 
 .circlesmall {
-	width: 70px;
-	height: 70px;
+	width: 75px;
+	height: 75px;
 	background: white;
-	-moz-border-radius: 35px;
-	-webkit-border-radius: 35px;
-	border-radius: 35px;
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 37.5px;
+	margin: auto;
+	
+}
+
+.circlesmall11 {
+	width: 75px;
+	height: 75px;
+	background: #f4da39;
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 37.5px;
+	margin: auto;
+	
+}
+
+.circlesmall13 {
+	width: 75px;
+	height: 75px;
+	background: hotpink;
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 37.5px;
+	margin: auto;
+	
+}
+
+.circlesmall6 {
+	width: 75px;
+	height: 75px;
+	background: green;
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 37.5px;
+	margin: auto;
+	
+}
+
+.circlesmall14 {
+	width: 75px;
+	height: 75px;
+	background: green;
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 37.5px;
+	margin: auto;
+	
+}
+
+.circlesmall15 {
+	width: 75px;
+	height: 75px;
+	background: hotpink;
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 37.5px;
 	margin: auto;
 	
 }
@@ -133,6 +188,17 @@ body {
 	margin: auto;
 }
 
+.giflove {
+	top: 320px;
+	left: 586px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.44);
+	position: fixed;
+	margin: auto;
+
+}
+
 .five {
 	top: 410px;
 	left: 650px;
@@ -145,11 +211,12 @@ body {
 	left: 235px;
 	position: fixed;
 	margin: auto;
+	color: blue;
 }
 
 .gifmonogram {
-	top: 145px;
-	left: 218px;
+	top: 149px;
+	left: 223px;
 	width:200px;
 	z-index: 17;
 	transform: scale(.27);
@@ -165,6 +232,17 @@ body {
 	margin: auto;
 }
 
+.gifpunct {
+	top: 338px;
+	left: 300px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.27);
+	position: fixed;
+	margin: auto;
+
+}
+
 .eight {
 	top: 450px;
 	left: 375px;
@@ -172,12 +250,6 @@ body {
 	margin: auto;
 }
 
-.nine {
-	top: 620px;
-	left: 450px;
-	position: fixed;
-	margin: auto;
-}
 
 .gifspring {
 	top: 510px;
@@ -190,12 +262,31 @@ body {
 
 }
 
+.nine {
+	top: 620px;
+	left: 450px;
+	position: fixed;
+	margin: auto;
+}
+
+.gifpunct {
+	top: 417px;
+	left: 482px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.27);
+	position: fixed;
+	margin: auto;
+}
+
+
 .ten {
 	top: 530px;
 	left: 560px;
 	position: fixed;
 	margin: auto;
 }
+
 
 .eleven {
 	top: 530px;
