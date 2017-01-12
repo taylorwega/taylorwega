@@ -95,7 +95,7 @@ body {
 .circlesmall14 {
 	width: 75px;
 	height: 75px;
-	background: green;
+	background: #1956b7;
 	-moz-border-radius: 37.5px;
 	-webkit-border-radius: 37.5px;
 	border-radius: 37.5px;
@@ -302,9 +302,29 @@ body {
 	margin: auto;
 }
 
+.gifrise {
+	top: 340px;
+	left: 900px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.27);
+	position: fixed;
+	margin: auto;
+}
+
 .thirteen {
 	top: 450px;
 	left: 975px;
+	position: fixed;
+	margin: auto;
+}
+
+.gifthings {
+	top: 148px;
+	left: 975px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.27);
 	position: fixed;
 	margin: auto;
 }
@@ -316,11 +336,22 @@ body {
 	margin: auto;
 }
 
+.giftrademark {
+	top: 26px;
+	left: 1066px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.51);
+	position: fixed;
+	margin: auto;
+}
+
 .fifteen {
 	top: 70px;
 	left: 1118px;
 	position: fixed;
 	margin: auto;
+	z-index: 0;
 }
 
 
