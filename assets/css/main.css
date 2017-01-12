@@ -17,13 +17,13 @@ body {
 /* structure */
 
 .container {
-	width: 1400px;
+	width: 1380px;
 	height: 640px;
 	padding: 20px 30px;
 	margin: auto;
 	font-weight: 300;
 	background-color: #9acfd3;
-	overflow: hidden;
+	overflow-y: hidden;
 
 }
 
@@ -206,6 +206,17 @@ body {
 	margin: auto;
 }
 
+.gifabout {
+	top: -42px;
+	left: 160px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.25);
+	position: fixed;
+	margin: auto;
+
+}
+
 .six {
 	top: 70px;
 	left: 235px;
@@ -238,6 +249,17 @@ body {
 	width:200px;
 	z-index: 17;
 	transform: scale(.27);
+	position: fixed;
+	margin: auto;
+
+}
+
+.gifresume {
+	top: 338px;
+	left: 300px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.25);
 	position: fixed;
 	margin: auto;
 
