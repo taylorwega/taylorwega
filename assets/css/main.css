@@ -5,11 +5,14 @@
     margin: 0px;
 }
 
-/* type */
+/* type   
+font-family: 'Roboto Slab', serif;
+font-family: 'Roboto', sans-serif; */
 
 body {
 
     background-color: #9acfd3;
+
 
 
 }
@@ -40,11 +43,12 @@ body {
 .circle {
 	width: 120px;
 	height: 120px;
-	background: white;
 	-moz-border-radius: 60px;
 	-webkit-border-radius: 60px;
 	border-radius: 60px;
 	margin: auto;
+	background-color: white
+	
 	
 }
 
@@ -59,60 +63,8 @@ body {
 	
 }
 
-.circlesmall11 {
-	width: 75px;
-	height: 75px;
-	background: #f4da39;
-	-moz-border-radius: 37.5px;
-	-webkit-border-radius: 37.5px;
-	border-radius: 37.5px;
-	margin: auto;
-	
-}
 
-.circlesmall13 {
-	width: 75px;
-	height: 75px;
-	background: hotpink;
-	-moz-border-radius: 37.5px;
-	-webkit-border-radius: 37.5px;
-	border-radius: 37.5px;
-	margin: auto;
-	
-}
 
-.circlesmall6 {
-	width: 75px;
-	height: 75px;
-	background: green;
-	-moz-border-radius: 37.5px;
-	-webkit-border-radius: 37.5px;
-	border-radius: 37.5px;
-	margin: auto;
-	
-}
-
-.circlesmall14 {
-	width: 75px;
-	height: 75px;
-	background: #1956b7;
-	-moz-border-radius: 37.5px;
-	-webkit-border-radius: 37.5px;
-	border-radius: 37.5px;
-	margin: auto;
-	
-}
-
-.circlesmall15 {
-	width: 75px;
-	height: 75px;
-	background: hotpink;
-	-moz-border-radius: 37.5px;
-	-webkit-border-radius: 37.5px;
-	border-radius: 37.5px;
-	margin: auto;
-	
-}
 
 .gifportraits {
 	top: -40px;
@@ -122,6 +74,14 @@ body {
 	transform: scale(.45);
 	position: fixed;
 	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	font-size: 24pt;
+	color:#9acfd3;
+
+}
+
+.gifportraits:hover{
+	opacity: 0;
 
 }
 
@@ -134,9 +94,24 @@ body {
 	
 }
 
+.typeone {
+	top: 76px;
+	left: 457px;
+	width:110px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 10pt;
+	text-align: center;
+	color: black;
+}
+
+
+
 .gifgoat {
 	top: -40px;
-	left: 590px;
+	left: 586px;
 	width:200px;
 	z-index: 17;
 	transform: scale(.45);
@@ -145,11 +120,33 @@ body {
 
 }
 
+.gifgoat:hover{
+	opacity: 0;
+
+}
+
 .two {
 	top: 50px;
 	left: 650px;
 	position: fixed;
 	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	font-size: 12pt;
+	text-align: center;
+	color: #9acfd3;
+}
+
+.typetwo {
+	top: 80px;
+	left: 657px;
+	width:110px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 10pt;
+	text-align: center;
+	color: black;
 }
 
 .gifvoices{
@@ -157,9 +154,14 @@ body {
 	left: 788px;
 	width:200px;
 	z-index: 17;
-	transform: scale(.44);
+	transform: scale(.42);
 	position: fixed;
 	margin: auto;
+
+}
+
+.gifvoices:hover{
+	opacity: 0;
 
 }
 
@@ -168,6 +170,19 @@ body {
 	left: 850px;
 	position: fixed;
 	margin: auto;
+}
+
+.typethree {
+	top: 83px;
+	left: 857px;
+	width:110px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 10pt;
+	text-align: center;
+	color: black;
 }
 
 .gifstories {
@@ -181,6 +196,11 @@ body {
 
 }
 
+.gifstories:hover{
+	opacity: 0;
+
+}
+
 .four {
 	top: 230px;
 	left: 650px;
@@ -188,14 +208,32 @@ body {
 	margin: auto;
 }
 
+.typefour {
+	top: 255px;
+	left: 656px;
+	width:110px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 10pt;
+	text-align: center;
+	color: black;
+}
+
 .giflove {
 	top: 320px;
 	left: 586px;
-	width:200px;
+	width: 200px;
 	z-index: 17;
 	transform: scale(.44);
 	position: fixed;
 	margin: auto;
+
+}
+
+.giflove:hover{
+	opacity: 0;
 
 }
 
@@ -206,14 +244,32 @@ body {
 	margin: auto;
 }
 
-.gifabout {
-	top: -42px;
-	left: 160px;
-	width:200px;
-	z-index: 17;
-	transform: scale(.25);
+.typefive {
+	top: 443px;
+	left: 657px;
+	width:110px;
 	position: fixed;
 	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 10pt;
+	text-align: center;
+	color: black;
+}
+
+.gifabout {
+	top: -42px;
+	left: 159px;
+	width: 200px;
+	z-index: 17;
+	transform: scale(.27);
+	position: fixed;
+	margin: auto;
+
+}
+
+.gifabout:hover{
+	opacity: 0;
 
 }
 
@@ -223,6 +279,19 @@ body {
 	position: fixed;
 	margin: auto;
 	color: blue;
+}
+
+.typesix {
+	top: 98px;
+	left: 235px;
+	width: 75px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
 }
 
 .gifmonogram {
@@ -236,6 +305,11 @@ body {
 
 }
 
+.gifmonogram:hover{
+	opacity: 0;
+
+}
+
 .seven {
 	top: 260px;
 	left: 300px;
@@ -243,16 +317,19 @@ body {
 	margin: auto;
 }
 
-.gifpunct {
-	top: 338px;
-	left: 300px;
-	width:200px;
-	z-index: 17;
-	transform: scale(.27);
+.typeseven {
+	top: 280px;
+	left: 301px;
+	width: 75px;
 	position: fixed;
 	margin: auto;
-
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
 }
+
 
 .gifresume {
 	top: 338px;
@@ -265,6 +342,11 @@ body {
 
 }
 
+.gifresume:hover{
+	opacity: 0;
+
+}
+
 .eight {
 	top: 450px;
 	left: 375px;
@@ -272,6 +354,18 @@ body {
 	margin: auto;
 }
 
+.typeeight {
+	top: 480px;
+	left: 376.5px;
+	width: 75px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
+}
 
 .gifspring {
 	top: 510px;
@@ -284,11 +378,29 @@ body {
 
 }
 
+.gifspring:hover{
+	opacity: 0;
+
+}
+
 .nine {
 	top: 620px;
 	left: 450px;
 	position: fixed;
 	margin: auto;
+}
+
+.typenine {
+	top: 626px;
+	left: 450px;
+	width: 75px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
 }
 
 .gifpunct {
@@ -301,6 +413,9 @@ body {
 	margin: auto;
 }
 
+.gifpunct:hover{
+	opacity: 0;
+}
 
 .ten {
 	top: 530px;
@@ -309,6 +424,18 @@ body {
 	margin: auto;
 }
 
+.typeten {
+	top: 545px;
+	left: 562px;
+	width: 75px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
+}
 
 .eleven {
 	top: 530px;
@@ -317,11 +444,37 @@ body {
 	margin: auto;
 }
 
+.typeeleven {
+	top: 557px;
+	left: 790px;
+	width: 75px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
+}
+
 .twelve {
 	top: 620px;
 	left: 910px;
 	position: fixed;
 	margin: auto;
+}
+
+.typetwelve {
+	top: 647px;
+	left: 910px;
+	width: 75px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
 }
 
 .gifrise {
@@ -334,11 +487,29 @@ body {
 	margin: auto;
 }
 
+.gifrise:hover{
+	opacity: 0;
+
+}
+
 .thirteen {
 	top: 450px;
 	left: 975px;
 	position: fixed;
 	margin: auto;
+}
+
+.typethirteen {
+	top: 465px;
+	left: 975px;
+	width: 75px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
 }
 
 .gifthings {
@@ -351,11 +522,29 @@ body {
 	margin: auto;
 }
 
+.gifthings:hover{
+	opacity: 0;
+
+}
+
 .fourteen {
 	top: 260px;
 	left: 1050px;
 	position: fixed;
 	margin: auto;
+}
+
+.typefourteen {
+	top: 273px;
+	left: 1050px;
+	width: 75px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
 }
 
 .giftrademark {
@@ -368,12 +557,30 @@ body {
 	margin: auto;
 }
 
+.giftrademark:hover{
+	opacity: 0;
+
+}
+
 .fifteen {
 	top: 70px;
 	left: 1118px;
 	position: fixed;
 	margin: auto;
 	z-index: 0;
+}
+
+.typefifteen {
+	top: 80px;
+	left: 1118px;
+	width: 75px;
+	position: fixed;
+	margin: auto;
+	font-family: 'Roboto Slab', serif;
+	letter-spacing: +1px;
+	font-size: 8.5pt;
+	text-align: center;
+	color: black;
 }
 
 
