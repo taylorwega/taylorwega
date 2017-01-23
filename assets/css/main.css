@@ -20,7 +20,7 @@ body {
 /* structure */
 
 .container {
-	width: 1380px;
+	width: 100%;
 	height: 640px;
 	padding: 20px 30px;
 	margin: auto;
@@ -294,21 +294,6 @@ body {
 	color: black;
 }
 
-.gifmonogram {
-	top: 149px;
-	left: 223px;
-	width:200px;
-	z-index: 17;
-	transform: scale(.27);
-	position: fixed;
-	margin: auto;
-
-}
-
-.gifmonogram:hover{
-	opacity: 0;
-
-}
 
 .seven {
 	top: 260px;
@@ -318,7 +303,7 @@ body {
 }
 
 .typeseven {
-	top: 280px;
+	top: 290px;
 	left: 301px;
 	width: 75px;
 	position: fixed;
@@ -367,21 +352,6 @@ body {
 	color: black;
 }
 
-.gifspring {
-	top: 510px;
-	left: 372px;
-	width:200px;
-	z-index: 17;
-	transform: scale(.28);
-	position: fixed;
-	margin: auto;
-
-}
-
-.gifspring:hover{
-	opacity: 0;
-
-}
 
 .nine {
 	top: 620px;
@@ -391,7 +361,7 @@ body {
 }
 
 .typenine {
-	top: 626px;
+	top: 646px;
 	left: 450px;
 	width: 75px;
 	position: fixed;
@@ -437,6 +407,22 @@ body {
 	color: black;
 }
 
+.gifmonogram {
+	top: 420px;
+	left: 715px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.27);
+	position: fixed;
+	margin: auto;
+
+}
+
+.gifmonogram:hover{
+	opacity: 0;
+
+}
+
 .eleven {
 	top: 530px;
 	left: 790px;
@@ -445,7 +431,7 @@ body {
 }
 
 .typeeleven {
-	top: 557px;
+	top: 550px;
 	left: 790px;
 	width: 75px;
 	position: fixed;
@@ -457,6 +443,22 @@ body {
 	color: black;
 }
 
+.gifspring {
+	top: 513px;
+	left: 835px;
+	width:200px;
+	z-index: 17;
+	transform: scale(.28);
+	position: fixed;
+	margin: auto;
+
+}
+
+.gifspring:hover{
+	opacity: 0;
+
+}
+
 .twelve {
 	top: 620px;
 	left: 910px;
@@ -465,7 +467,7 @@ body {
 }
 
 .typetwelve {
-	top: 647px;
+	top: 627px;
 	left: 910px;
 	width: 75px;
 	position: fixed;
@@ -512,17 +514,18 @@ body {
 	color: black;
 }
 
-.gifthings {
-	top: 148px;
-	left: 975px;
+
+.giftrademark {
+	top: 216px;
+	left: 998px;
 	width:200px;
 	z-index: 17;
-	transform: scale(.27);
+	transform: scale(.51);
 	position: fixed;
 	margin: auto;
 }
 
-.gifthings:hover{
+.giftrademark:hover{
 	opacity: 0;
 
 }
@@ -547,17 +550,17 @@ body {
 	color: black;
 }
 
-.giftrademark {
-	top: 26px;
-	left: 1066px;
+.gifthings {
+	top: -43px;
+	left: 1043px;
 	width:200px;
 	z-index: 17;
-	transform: scale(.51);
+	transform: scale(.27);
 	position: fixed;
 	margin: auto;
 }
 
-.giftrademark:hover{
+.gifthings:hover{
 	opacity: 0;
 
 }
